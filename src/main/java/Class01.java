@@ -4,6 +4,9 @@ public class Class01 {
         int y = 2;
         System.out.println(x+y);
         System.out.println("Versiyon 1 için işlemler tamam!");
+        // Versiyon 2 çalışmaları...
+        int z = 4;
+        System.out.println(x+y+z);
 
     }
 }
